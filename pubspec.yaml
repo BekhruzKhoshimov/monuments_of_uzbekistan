@@ -41,6 +41,8 @@ dependencies:
   flutter_3d_drawer: ^0.0.1
   #seach
   anim_search_bar: ^2.0.3
+  #like_button:
+  like_button: ^2.0.5
 
 dev_dependencies:
   flutter_test:
